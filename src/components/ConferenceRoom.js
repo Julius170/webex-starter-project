@@ -1,6 +1,6 @@
 import React from "react";
-import Screen from "../../components/Screen";
-import Particpant from "../../components/Particpant";
+import Screen from "./Screen";
+import Particpant from "./VideoTile";
 import {
   useHMSStore,
   selectLocalPeer,
