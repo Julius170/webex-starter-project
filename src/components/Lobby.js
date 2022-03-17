@@ -21,8 +21,6 @@ function Lobby() {
     e.preventDefault();
 
   // apply logic to join a meeting
-
-
   };
 
   return (
